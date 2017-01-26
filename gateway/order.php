@@ -6,7 +6,7 @@ $publicKey = 'your_public_key';
 //The "Secret key" or "Api secret" can be retrieved in the webshop.
 $secretKey = 'ssst_this_is_a_secret';
 
-//The address of your ccv shop
+//The address of your webshop
 $domain = 'https://team-thijs.securearea.eu';
 
 //Set the time zone to utc
